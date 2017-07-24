@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
                 s.request(10);
                 s.request(10);
                 s.request(10);
+                // 控制打印数量
             }
 
             @Override
